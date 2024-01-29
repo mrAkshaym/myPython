@@ -6,19 +6,6 @@ rto_records_two_wheeler = []
 rto_records_cars = []
 
 def rto():
-
-    two_wheeler_engine_num = [] #format ABCD1234
-    two_wheeler_chassis_num = [] #format 12345678
-    two_wheeler_registration_num = [] #UP656789
-    two_wheeler_color = [] #black, white, blue, brown, silver, red
-    two_wheeler_type = [] #scooter, bike
-
-    car_engine_num = [] #format ABCD1234
-    car_chassis_num = [] #format 12345678
-    car_registration_num = [] #UP656789
-    car_color = [] #black, white, blue, brown, silver, red
-    car_gear_system = [] # manual, automatic
-
     two_wheeler_count = int(input(" Enter num of two-wheelers."))
     car_count = int(input(" Enter num of cars."))
 
