@@ -1,0 +1,60 @@
+PS C:\myPython\myPython> & C:/Users/akmahaj/AppData/Local/Programs/Python/Python38/python.exe c:/myPython/myPython/classes/rto.py
+ Enter num of two-wheelers.4
+ Enter num of cars.3
+ Two wheeler type : scooter
+ Colour : black
+     Engine no:  CVWQ2518 , Chassis no:  33254227 , Reg no  TG728439
+
+ Two wheeler type : bike
+ Colour : blue
+     Engine no:  EQHL6379 , Chassis no:  64298638 , Reg no  PY821924
+
+ Two wheeler type : bike
+ Colour : blue
+     Engine no:  LIYD5435 , Chassis no:  94755620 , Reg no  UC536017
+
+ Two wheeler type : scooter
+ Colour : brown
+     Engine no:  MWDN6666 , Chassis no:  22998489 , Reg no  UG688359
+
+ Car Gear system : manual
+ Colour : silver
+     Engine no:  QTOB8574 , Chassis no:  72993688 , Reg no  BA576833
+
+ Car Gear system : manual
+ Colour : brown
+     Engine no:  IZKA5283 , Chassis no:  82068114 , Reg no  BB722938
+
+ Car Gear system : manual
+ Colour : black
+     Engine no:  MPGP9569 , Chassis no:  48729126 , Reg no  MD595112
+
+=============printing some random records. ====================
+ Random 2-wheeler index =  2
+Two wheeler vehicle type is bike
+Engine number : LIYD5435
+Chassis number : 94755620
+Registration number : UC536017
+ Random 2-wheeler index =  0
+Two wheeler vehicle type is scooter
+Engine number : CVWQ2518
+Chassis number : 33254227
+Registration number : TG728439
+ Random 2-wheeler index =  0
+Two wheeler vehicle type is scooter
+Engine number : CVWQ2518
+Chassis number : 33254227
+Registration number : TG728439
+ Random car index =  1
+Engine number : IZKA5283
+Chassis number : 82068114
+Registration number : BB722938
+ Random car index =  1
+Engine number : IZKA5283
+Chassis number : 82068114
+Registration number : BB722938
+ Random car index =  0
+Engine number : QTOB8574
+Chassis number : 72993688
+Registration number : BA576833
+PS C:\myPython\myPython> 

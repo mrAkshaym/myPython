@@ -1,0 +1,172 @@
+PS C:\myPython\myPython> & C:/Users/akmahaj/AppData/Local/Programs/Python/Python38/python.exe c:/myPython/myPython/classes/rto.py
+ Enter num of two-wheelers.15
+ Enter num of cars.20
+ Two wheeler type : scooter
+ Colour : silver
+     Engine no:  YMBQ9877 , Chassis no:  99849709 , Reg no  PU769746
+
+ Two wheeler type : scooter
+ Colour : black
+     Engine no:  DDMW9927 , Chassis no:  88391337 , Reg no  VN519161
+
+ Two wheeler type : scooter
+ Colour : black
+     Engine no:  AYNR8367 , Chassis no:  89258642 , Reg no  BP854756
+
+ Two wheeler type : scooter
+ Colour : blue
+     Engine no:  YXPZ3438 , Chassis no:  39597438 , Reg no  IZ561356
+
+ Two wheeler type : scooter
+ Colour : white
+     Engine no:  XIRM2872 , Chassis no:  94955021 , Reg no  UB708984
+
+ Two wheeler type : scooter
+ Colour : silver
+     Engine no:  LOXQ6046 , Chassis no:  10644923 , Reg no  CK706580
+
+ Two wheeler type : bike
+ Colour : blue
+     Engine no:  GMGB3893 , Chassis no:  50673058 , Reg no  FV411178
+
+ Two wheeler type : bike
+ Colour : white
+     Engine no:  OPCS1186 , Chassis no:  41807689 , Reg no  OJ734796
+
+ Two wheeler type : bike
+ Colour : black
+     Engine no:  HBQO9911 , Chassis no:  16836615 , Reg no  VD474065
+
+ Two wheeler type : bike
+ Colour : black
+     Engine no:  MEPH8721 , Chassis no:  60366270 , Reg no  MV618172
+
+ Two wheeler type : bike
+ Colour : red
+     Engine no:  QOCP2518 , Chassis no:  99579889 , Reg no  HE843998
+
+ Two wheeler type : bike
+ Colour : black
+     Engine no:  NGZD2895 , Chassis no:  99498691 , Reg no  KB496614
+
+ Two wheeler type : bike
+ Colour : silver
+     Engine no:  HLNF9662 , Chassis no:  18747530 , Reg no  VA628848
+
+ Two wheeler type : scooter
+ Colour : black
+     Engine no:  UFEK8946 , Chassis no:  50616203 , Reg no  TQ684231
+
+ Two wheeler type : scooter
+ Colour : brown
+     Engine no:  DXJF8861 , Chassis no:  27075988 , Reg no  DY823590
+
+ Car Gear system : manual
+ Colour : brown
+     Engine no:  AHFF1098 , Chassis no:  56776917 , Reg no  KY835472
+
+ Car Gear system : automatic
+ Colour : black
+     Engine no:  GKBO7964 , Chassis no:  55163417 , Reg no  FG539564
+
+ Car Gear system : automatic
+ Colour : blue
+     Engine no:  QBNP3086 , Chassis no:  44432168 , Reg no  ID552128
+
+ Car Gear system : automatic
+ Colour : white
+     Engine no:  FOHZ9876 , Chassis no:  16116089 , Reg no  WB615344
+
+ Car Gear system : manual
+ Colour : blue
+     Engine no:  BDOH1821 , Chassis no:  77323596 , Reg no  EW577916
+
+ Car Gear system : manual
+ Colour : white
+     Engine no:  GTDE5342 , Chassis no:  59634992 , Reg no  VJ643627
+
+ Car Gear system : manual
+ Colour : brown
+     Engine no:  KXPR2581 , Chassis no:  21737996 , Reg no  MI798698
+
+ Car Gear system : automatic
+ Colour : black
+     Engine no:  STRV9871 , Chassis no:  35971239 , Reg no  EF402082
+
+ Car Gear system : manual
+ Colour : brown
+     Engine no:  MBFB6043 , Chassis no:  43074619 , Reg no  CD686800
+
+ Car Gear system : manual
+ Colour : black
+     Engine no:  JIKL2543 , Chassis no:  52527584 , Reg no  YB518489
+
+ Car Gear system : automatic
+ Colour : white
+     Engine no:  LEZA9398 , Chassis no:  34327011 , Reg no  XH536068
+
+ Car Gear system : automatic
+ Colour : silver
+     Engine no:  OPWD3098 , Chassis no:  23714416 , Reg no  SC663761
+
+ Car Gear system : automatic
+ Colour : black
+     Engine no:  HYUD1757 , Chassis no:  88265764 , Reg no  TN438200
+
+ Car Gear system : automatic
+ Colour : blue
+     Engine no:  BRBM8235 , Chassis no:  31259370 , Reg no  OT599660
+
+ Car Gear system : manual
+ Colour : brown
+     Engine no:  WBBY9223 , Chassis no:  41528168 , Reg no  DE769923
+
+ Car Gear system : automatic
+ Colour : white
+     Engine no:  AXUX9802 , Chassis no:  30942533 , Reg no  GZ473969
+
+ Car Gear system : automatic
+ Colour : brown
+     Engine no:  BJTA7410 , Chassis no:  28052907 , Reg no  OB686197
+
+ Car Gear system : manual
+ Colour : blue
+     Engine no:  CQSE8372 , Chassis no:  45033588 , Reg no  RU677910
+
+ Car Gear system : automatic
+ Colour : red
+     Engine no:  GIZE9065 , Chassis no:  75582389 , Reg no  DU516956
+
+ Car Gear system : automatic
+ Colour : white
+     Engine no:  MTGC3503 , Chassis no:  98082416 , Reg no  SW729444
+
+=============printing some random records. ====================
+ Random 2-wheeler index =  2
+Two wheeler vehicle type is scooter
+Engine number : AYNR8367
+Chassis number : 89258642
+Registration number : BP854756
+ Random 2-wheeler index =  1
+Two wheeler vehicle type is scooter
+Engine number : DDMW9927
+Chassis number : 88391337
+Registration number : VN519161
+ Random 2-wheeler index =  7
+Two wheeler vehicle type is bike
+Engine number : OPCS1186
+Chassis number : 41807689
+Registration number : OJ734796
+ Random car index =  4
+Engine number : BDOH1821
+Chassis number : 77323596
+Registration number : EW577916
+ Random car index =  9
+Engine number : JIKL2543
+Chassis number : 52527584
+Registration number : YB518489
+ Random car index =  8
+Engine number : MBFB6043
+Chassis number : 43074619
+Registration number : CD686800
+PS C:\myPython\myPython> 
